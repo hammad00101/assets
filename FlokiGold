@@ -1,0 +1,9 @@
+id : contract address of the token
+name : full token name
+symbol : token's symbol
+type : token type; BEP20 or ERC20
+decimals : number of decimals your token supports
+website : official website of your token
+explorer : url of your token's info page on the block explorers
+refelections : does your token recieve reflections, boolean true|false
+social: key/value pair of your token's social media links
